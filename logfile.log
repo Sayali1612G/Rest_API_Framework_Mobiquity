@@ -1,0 +1,25 @@
+2021-03-21 11:13:25,742 INFO  [Log] Successfully verify the StatusCode which is : 200 
+2021-03-21 11:13:25,762 INFO  [Log]  ****  User : Glenna Reichert is authorized user with valid Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:13:26,165 INFO  [Log]  ****  User is having valid email added : Chaim_McDermott@dana.io 
+2021-03-21 11:13:26,665 INFO  [Log] Successfully verify the StatusCode which is : 404 
+2021-03-21 11:13:26,665 INFO  [Log]  ****  User : Glenna Reichert is not authorized user with Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:14:41,562 INFO  [Log] Successfully verify the StatusCode which is : 200 
+2021-03-21 11:14:41,581 INFO  [Log]  ****  User : Glenna Reichert is authorized user with valid Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:14:41,911 INFO  [Log]  ****  User is having valid email added : Chaim_McDermott@dana.io 
+2021-03-21 11:14:42,016 INFO  [Log] Successfully verify the StatusCode which is : 404 
+2021-03-21 11:14:42,016 INFO  [Log]  ****  User : Glenna Reichert is not authorized user with Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:18:11,298 INFO  [Log] Successfully verify the StatusCode which is : 200 
+2021-03-21 11:18:11,317 INFO  [Log]  ****  User : Glenna Reichert is authorized user with valid Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:18:11,678 INFO  [Log]  ****  User is having valid email added : Chaim_McDermott@dana.io 
+2021-03-21 11:18:11,794 INFO  [Log] Successfully verify the StatusCode which is : 404 
+2021-03-21 11:18:11,794 INFO  [Log]  ****  User : Glenna Reichert is not authorized user with Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:19:21,867 INFO  [Log] Successfully verify the StatusCode which is : 200 
+2021-03-21 11:19:21,884 INFO  [Log]  ****  User : Glenna Reichert is authorized user with valid Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:19:22,269 INFO  [Log]  ****  User is having valid email added : Chaim_McDermott@dana.io 
+2021-03-21 11:19:22,399 INFO  [Log] Successfully verify the StatusCode which is : 404 
+2021-03-21 11:19:22,399 INFO  [Log]  ****  User : Glenna Reichert is not authorized user with Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:22:12,777 INFO  [Log] Successfully verify the StatusCode which is : 200 
+2021-03-21 11:22:12,799 INFO  [Log]  ****  User : Glenna Reichert is authorized user with valid Email id : Chaim_McDermott@dana.io **** 
+2021-03-21 11:22:13,192 INFO  [Log]  ****  User is having valid email added : Chaim_McDermott@dana.io 
+2021-03-21 11:22:13,310 INFO  [Log] Successfully verify the StatusCode which is : 404 
+2021-03-21 11:22:13,311 INFO  [Log]  ****  User : Glenna Reichert is not authorized user with Email id : Chaim_McDermott@dana.io **** 
